@@ -5,7 +5,7 @@ All use of data should cite this source.
 
 Recommended citation:
 
-Parker, M. (2024), "A global database for energy consumer price indices", European Central Bank, mimeo.  
+Parker, M. (2024), "A global database for energy consumer price indices", Energy Economics, forthcoming, https://doi.org/10.1016/j.eneco.2024.107645  
 
 The data are in two files. "energycpi.csv" is at monthly frequency and contains observations for most countries. 
 
